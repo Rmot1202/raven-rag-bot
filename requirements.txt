@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-chromadb
+chromadb==0.4.24
 openai
 requests
 beautifulsoup4
