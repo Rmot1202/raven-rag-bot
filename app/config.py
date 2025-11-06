@@ -21,15 +21,19 @@ GITHUB_USERNAME = os.getenv("GITHUB_USERNAME", "Rmot1202")
 
 # Only repos that represent your work (EDIT THIS LIST)
 GITHUB_REPOS_ALLOWLIST = [
-    "Gestura",
-    "CropNet-Climate-Yield",
-    "Malware-Analysis-Project",
+    "raven-rag-bot","Rmot1202.github.io","Cropnet","Rmot1202","Food-Website","malware-triage-pipeline","Gestura","BitFit_Part_2","Campgrounds.pt1","bit_2","bit","Campground-Pt3","Campgrounds","flixster_pt2","Flixster","and102-lab3-starter","Wishlist","Gmail","AdamJeddy","Wordle","SimpleCounter","meharry-summer-colab-intro-to-github","csm","MSCC25","Distributed-Malware-Analysis-System","Charity-Website","Decision-Tree-Classifier-Project","javascript-essential-training-2832077","Support-Vector-Machine-SVM-for-Neutron-Interaction-Classification","K-means-Clustering-Project","Heat-Raster-Analysis-for-Petersburg-VA","SNA-VSU-FACULTY","generative-ai-for-python-developers-4504249",
+    
+    
     # add/rename to match your actual repos
 ]
 
 # === Websites to crawl (EDIT/ADD as needed) ===
 SEED_SITES = [
     "https://rmot1202.github.io/",
+    "www.linkedin.com/in/raven1202",
+    "https://sresfs.net/",
+    "https://ms-cc.org/",
+
 ]
 
 MAX_WEB_PAGES = int(os.getenv("MAX_WEB_PAGES", "40"))
