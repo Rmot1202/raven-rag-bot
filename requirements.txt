@@ -1,6 +1,5 @@
 fastapi
 uvicorn[standard]
-chromadb==0.4.24
 openai
 requests
 beautifulsoup4
@@ -8,3 +7,4 @@ PyGithub
 pypdf
 python-docx
 python-dotenv
+
