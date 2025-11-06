@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+chromadb
+openai
+requests
+beautifulsoup4
+PyGithub
+pypdf
+python-docx
+python-dotenv
